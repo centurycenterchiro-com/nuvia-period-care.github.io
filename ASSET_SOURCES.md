@@ -1,6 +1,14 @@
-# NUVIA Asset Notes
+# NUVIA — Asset Sources
 
-- `assets/branding/nuvia-logo.jpg` — NUVIA logo, optimized below 1 MB.
-- Product/editorial imagery is local project imagery prepared for this storefront concept.
-- No remote image URLs are required for the core storefront.
-- Before commercial use, verify product claims, specifications, packaging, pricing, inventory, trademarks, and image rights.
+## Branding
+- `assets/branding/nuvia-logo.jpg` — NUVIA project logo created for this storefront.
+
+## Product Photography
+- `assets/products/product-01.webp` to `product-04.webp` — NUVIA-branded product visuals created for the project.
+- `assets/products/product-05.webp` to `product-12.webp` — original product photography generated specifically for this project and prepared as individual local WebP assets.
+
+## Editorial Photography
+- Editorial assets are local project visuals prepared for the storefront. They do not depend on remote image URLs.
+
+## Important
+All product and editorial imagery in the V2 package is stored locally so GitHub Pages does not depend on an external image host. Before a commercial launch, verify that all final photography, packaging designs, logos, and product claims are cleared for the intended use.

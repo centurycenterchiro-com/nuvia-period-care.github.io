@@ -541,3 +541,8 @@ Every design element should serve the customer.
 © 2026 NUVIA — Period Care. All rights reserved.
 
 **NUVIA — Care, comfort, every day.**
+
+
+## V2 Image Update
+
+V2 replaces the weaker catalog imagery from V1 with individually prepared, higher-quality local product photographs. Each product keeps its own image file and the catalog card structure remains unchanged so the photography fills the intended image area without relying on remote URLs.
