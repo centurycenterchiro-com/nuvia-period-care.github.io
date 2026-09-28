@@ -546,3 +546,7 @@ Every design element should serve the customer.
 ## V2 Image Update
 
 V2 replaces the weaker catalog imagery from V1 with individually prepared, higher-quality local product photographs. Each product keeps its own image file and the catalog card structure remains unchanged so the photography fills the intended image area without relying on remote URLs.
+
+## V3 Image Update
+
+V3 refreshes the homepage editorial photography. The hero, Everyday Comfort, On the Go, Care Collection, and Support sections now use distinct local photographs with cleaner composition and no dependence on repeated homepage imagery. The existing layout, navigation, catalog, cart, saved items, and responsive structure remain unchanged.
